@@ -24,6 +24,10 @@ class AboutUs extends StatelessWidget {
             crossAxisAlignment: CrossAxisAlignment.center,
             mainAxisAlignment: MainAxisAlignment.center,
             children: [
+              Image.asset(
+                'assets/images/icon/nano.png',
+                height: 150,
+              ),
               Text(
                 'گروپی نانۆ سۆفت',
                 style: TextStyle(
